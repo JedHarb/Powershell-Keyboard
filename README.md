@@ -38,7 +38,9 @@ Activate "How do you say `"hello`" in French - Google Search - Google Chrome"
 ### SEND
 
 To send most standard keyboard characters, just use the characters directly.
-'Send Wazzup?'
+```
+Send Wazzup?
+```
 To send a quote or backtick, esacpe it with a backtick.
 ```
 Send "The sign says `"No Smoking`""
